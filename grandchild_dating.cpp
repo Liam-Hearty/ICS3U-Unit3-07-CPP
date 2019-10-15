@@ -7,9 +7,10 @@
 
 #include <iostream>
 
-std::count << "This is a test, are you good for my granddaughter?" std::endl;
 
 int main() {
+    std::cout << "Are you ok for my granddaughter to date?" << std::endl;
+    
     std::string age_as_string;
     int age_as_int;
 
